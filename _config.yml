@@ -9,6 +9,6 @@ baseurl: "/myblog"  # the subpath of your site, e.g. /blog/
 url: "http://ashessqy126.github.io/" # the base hostname & protocol for your site
 
 github_username: ashessqy126
-page-title:haha
+
 # Build settings
 markdown: kramdown
