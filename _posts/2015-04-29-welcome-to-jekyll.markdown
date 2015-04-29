@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "记录：我的第一篇博客!"
 date:   2015-04-29 09:36:52
 categories: jekyll update
 ---
