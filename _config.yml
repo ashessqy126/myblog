@@ -2,9 +2,7 @@
 title: Ashes Blog
 email: ashes.sqy126@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ 欢迎访问我的博客，本博客记录了一个web开发小白的漫漫心路...
 baseurl: "/myblog"  # the subpath of your site, e.g. /blog/
 url: "http://ashessqy126.github.io/" # the base hostname & protocol for your site
 
